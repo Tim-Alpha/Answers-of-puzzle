@@ -1,0 +1,32 @@
+
+body {
+  margin: 10px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  max-width: 600px;
+  max-height: 400px;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-size: 30px;
+  max-width: 700px;
+  font-family: cursive;
+}
+
+strong {
+  align-items: left;
+  font-family: cursive;
+  font-weight: 700;
+}
